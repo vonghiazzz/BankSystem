@@ -1,0 +1,8 @@
+C:\Users\votan\source\repos\ASM2\ASM2\bin\Debug\ASM2.exe.config
+C:\Users\votan\source\repos\ASM2\ASM2\bin\Debug\ASM2.exe
+C:\Users\votan\source\repos\ASM2\ASM2\bin\Debug\ASM2.pdb
+C:\Users\votan\source\repos\ASM2\ASM2\obj\Debug\ASM2.csproj.AssemblyReference.cache
+C:\Users\votan\source\repos\ASM2\ASM2\obj\Debug\ASM2.csproj.SuggestedBindingRedirects.cache
+C:\Users\votan\source\repos\ASM2\ASM2\obj\Debug\ASM2.csproj.CoreCompileInputs.cache
+C:\Users\votan\source\repos\ASM2\ASM2\obj\Debug\ASM2.exe
+C:\Users\votan\source\repos\ASM2\ASM2\obj\Debug\ASM2.pdb
